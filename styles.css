@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.card{
+max-width: 400px;
+    margin: 50px auto;
+    padding: 120px 10px;;
+    text-align: center;
+	border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	
+    }
+
+img{
+	width : 250px;
+	height : 150px;
+	
+}
+h1{
+	text-align:center
+}
+p{
+	text-align: center
+}
+button{
+	background:tomato;
+	color: white;
+	border: None;
+	padding: 15px 20px;
+	border-radius: 10px;
+}
